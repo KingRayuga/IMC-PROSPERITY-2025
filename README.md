@@ -9,5 +9,10 @@
 
 ---
 
-### Country Rank 
+### Country Rank  
 ![image](https://github.com/user-attachments/assets/d5ea1d88-22b1-4f93-9afb-ff03851ebf4a)
+
+---
+
+### Notes  
+Detailed analysis of **manual** and **algorithmic** challenges is provided in the file:  **`trading.ipynb`**
