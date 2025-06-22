@@ -15,4 +15,4 @@
 ---
 
 ### Notes  
-Detailed analysis of **manual** and **algorithmic** challenges is provided in the file:  **`trading.ipynb`**
+Detailed analysis of **manual** and **algorithmic** challenges is provided in the file:  **`trading.ipynb`**, **`trading_1.ipynb`** and **`trading_2.ipynb`**
